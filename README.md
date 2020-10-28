@@ -10,7 +10,7 @@
 <p><b>git log –oneline	-></b> To View log history shortly.
 <p><b>git diff	-></b> use this command to different between working directory and staging area latest change.
 <p><b>git diff –stage	-></b>after staging show what you change before.
-<p><b>git show gitnumber	-></b>To show your change. To find gitnumber command: git log –oneline.
+<p><b>git show gitnumber	-></b>To show your changees which i done previously. To find gitnumber command: git log –oneline.
 <p><b>git diff 1gitNum 2gitNum-></b>To show defferent(how ever change) between git 1 & git 2.
 <p><b>git diff  head	-></b> use this command to different between working directory and local  repository.
 <p><b>git commit -m "mass"	-></b>Commit changes to head locally final stage(but not yet to the remote repository).
