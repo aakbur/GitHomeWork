@@ -3,7 +3,7 @@
 <p><b>git status	 -></b>To view listed files you have changed and those file you still need to add or commit.
 <p><b>git config --global user.name "Your name"-></b>declare who you are (onetime needed). 
 <p><b>git config --global user.email “your email”-></b>declare your email (one time needed).
-<p><b>git config –list	-></b>To see User name and user email which is use this repository. (find windows: search credential then find)
+<p><b>git config –list	-></b>To see User name and user email which is use this repository. 
 <p><b>git add	filename 	-></b>Add one(single) file to Staging.
 <p><b>git add --a	   	-></b>Add all files to staging together.
 <p><b>git log			-></b>This command is used to check the commit history on git.
